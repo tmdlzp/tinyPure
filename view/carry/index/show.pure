@@ -1,0 +1,4 @@
+<h1>hello</h1>
+<?php
+    echo "这是index里面的内容";
+?>
